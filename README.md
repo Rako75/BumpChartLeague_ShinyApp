@@ -92,8 +92,6 @@ Les données proviennent de [Transfermarkt](https://www.transfermarkt.com/) via 
 ## 👨‍💻 Auteur
 
 **Alex Rakotomalala**
-- Twitter: [@AlexRakotomalala](https://twitter.com/AlexRakotomalala)
-- Application live: [rakostats.shinyapps.io](https://rakostats.shinyapps.io/Evolution_classement_par_ligue/)
 
 ## 📄 Licence
 
