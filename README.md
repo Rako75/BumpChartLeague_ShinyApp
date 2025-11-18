@@ -9,7 +9,7 @@ Application R Shiny interactive pour visualiser l'évolution du classement des c
 - **5 championnats majeurs** : Premier League, La Liga, Serie A, Bundesliga, Ligue 1
 - **Données historiques** : Saisons de 1992 à 2024
 - **Personnalisation** : Sélection jusqu'à 10 clubs à mettre en avant
-- **Visualisation dynamique** : Graphiques bump chart animés
+- **Visualisation dynamique** : Graphiques bump chart
 - **Logos des clubs** : Affichage automatique des logos (si disponibles)
 - **Thèmes** : Mode sombre et clair
 - **Export** : Téléchargement en haute résolution (PNG, 400 DPI)
