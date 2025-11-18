@@ -17,7 +17,7 @@ Application R Shiny interactive pour visualiser l'évolution du classement des c
 ## 📊 Aperçu
 
 L'application permet de suivre la progression des équipes tout au long d'une saison, avec :
-- Évolution du classement journée par journée
+- Évolution du classement par journée
 - Nombre de points pour chaque équipe
 - Mise en évidence des clubs sélectionnés
 
