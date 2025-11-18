@@ -66,7 +66,7 @@ shiny::runApp()
 3. **Définissez le nombre de clubs** à mettre en avant (1-10)
 4. **Sélectionnez les clubs** dans les menus déroulants
 5. **Cliquez sur "Générer le graphique"**
-6. **Téléchargez** votre visualisation en haute résolution
+6. **Téléchargez** votre visualisation
 
 ## 📦 Dossier des logos
 
