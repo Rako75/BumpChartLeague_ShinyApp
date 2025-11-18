@@ -89,9 +89,7 @@ Pour afficher les logos des clubs :
 
 Les données proviennent de [Transfermarkt](https://www.transfermarkt.com/) via le package `worldfootballR`.
 
-## 👨‍💻 Auteur
 
-**Alex Rakotomalala**
 
 ## 📄 Licence
 
