@@ -1,0 +1,39 @@
+# R et RStudio
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Shiny
+rsconnect/
+shinyapps/
+
+# Données temporaires
+*.csv
+*.rds
+*.RDS
+
+# Logos - non inclus dans le repo
+Logos clubs de football/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Plots temporaires
+*.png
+*.jpg
+*.pdf
+!README_files/*.png
+
+# Cache
+*_cache/
+/cache
+
+# Logs
+*.log
